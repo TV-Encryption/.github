@@ -11,13 +11,16 @@ To get an overview of the systems, it is beneficial to read the [thesis](Documen
 - [Defense_Presentation.pdf](Defense_Presentation.pdf)
 
 ## Repositories
-- key_server
-- key_generator
-- fairplay_server
-- FairplayKSM
-- Demo-App
+- [key_server](https://github.com/TV-Encryption/key_server)
+- [keygenerator](https://github.com/TV-Encryption/keygenerator)
+- [fairplay_server](https://github.com/TV-Encryption/fairplay_server)
+- [FairplayKSM](https://github.com/TV-Encryption/FairplayKSM)
+- [Demo-App](https://github.com/TV-Encryption/Demo-App)
 
 ## Deployments
-- key_server-deployconf
-- keygenerator-deployconf
-- fairplay_server-deployconf
+
+In contrast to developement deployments, production deployments have different needs and we therfore have separate deployment configurations for them. In theory they should just pull a docker image produced by CI but since these are just simple example configs, they just build locally.
+
+- [key_server-deployconf](https://github.com/TV-Encryption/key_server-deployconf)
+- [keygenerator-deployconf](https://github.com/TV-Encryption/keygenerator-deployconf)
+- [fairplay_server-deployconf](https://github.com/TV-Encryption/fairplay_server-deployconf)
