@@ -4,7 +4,7 @@ _Prototype of a key management system for live video stream encryption._
 
 These repositories were created as part of a bachelor thesis at [ZHAW Winterthur](https://www.zhaw.ch). Therefore the code is not actively being maintained.
 
-To get an overview of the systems, it is beneficial to read the [thesis](Documents/Bachelor_Thesis_TV_Encryption.pdf).
+To get an overview of the systems, it is beneficial to read the [thesis](Bachelor_Thesis_TV_Encryption.pdf).
 
 ## Documents
 - [Bachelor_Thesis_TV_Encryption.pdf](Bachelor_Thesis_TV_Encryption.pdf)
